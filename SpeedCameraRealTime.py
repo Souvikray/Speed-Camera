@@ -35,8 +35,6 @@ def euclidean_distance(p, q):
 colors = np.random.randint(0, 255, (MAX_NUM_CORNERS, 3))  # (num1, num2, dimension)
 # capture video from a file
 cap = cv2.VideoCapture(0)
-#cap = cv2.VideoCapture('sampleVideo3.mp4')
-#cap = cv2.VideoCapture('bira.jpg')
 # read the first frame
 ret, old_frame = cap.read()
 frame_count += 1
