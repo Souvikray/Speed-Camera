@@ -73,7 +73,7 @@ Now let us apply the Optical Flow technique on a sample video and see the result
 
 ![Alt text](https://github.com/Souvikray/Speed-Camera/blob/master/SpeedCameraVideo.gif?raw=true "Optional Title")
 
-Let is try out the Optical Flow technique in a real time environment.So as before I will be moving a pen and it should detect and track the movement of the pen.
+Let us try out the Optical Flow technique in a real time environment.So as before I will be moving a pen and it should detect and track the movement of the pen.
 
 ![Alt text](https://github.com/Souvikray/Speed-Camera/blob/master/SpeedCameraRealTime.gif?raw=true "Optional Title")
 
