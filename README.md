@@ -1,4 +1,4 @@
-We are going to build a speed camera that can detect and measure the speed of a moving object in a video or real time.The idea behind speed camera is Optical Flow.First we need to understand how a point is percieved in an image and in a video.
+I have built a speed camera that can detect and measure the speed of a moving object in a video or real time.The idea behind speed camera is Optical Flow.First we need to understand how a point is percieved in an image and in a video.
 
 In an image, we consider only the coordinate of a point ie a point's position with respect to x and y axis.So we get an equation like below
 
